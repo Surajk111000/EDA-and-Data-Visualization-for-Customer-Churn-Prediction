@@ -1,6 +1,9 @@
 # EDA-and-Data-Visualization-for-Customer-Churn-Prediction
 Exploratory Data Analysis (EDA) and Data Visualization for Customer Churn Prediction
 
+## 🚀 Live Dashboard
+**Try the interactive dashboard here:** https://huggingface.co/spaces/surajk111000/churn-eda-dashboard
+
 In this project, I conducted an Exploratory Data Analysis (EDA) on client and price data using Python and the Pandas library. The primary goal was to gain insights into the dataset and identify patterns that could contribute to customer churn prediction.
 
 Steps and Highlights:
